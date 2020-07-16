@@ -27,5 +27,6 @@ Cone Feet | pair | 150.000
 - [x] Layout Design
 - [X] Case Design (switch plate, bottom, middle and top)
 - [ ] Print Case Design Proto
+- [ ] Buy Parts
 - [ ] Build firmware (QMK)
 - [ ] Build Proto
