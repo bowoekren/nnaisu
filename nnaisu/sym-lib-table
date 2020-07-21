@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri /Users/bowo/Downloads/teensy_library-master/teensy.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "/Users/bowo/Documents/Atreus Improvement/kicad_footprint/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri /Users/bowo/Downloads/keebio-components-master/keebio.lib)(options "")(descr ""))
+)
